@@ -16,7 +16,7 @@ body{
 h1{
     margin-bottom: 40px;
     text-align: center;
-    margin-top: 50px;;
+    margin-top: 50px;
 }
 
 #container{
@@ -25,7 +25,7 @@ h1{
 
 p{
     height: 180px;
-    border: 2px solid black;
+    border: 1px solid black;
     margin-right: 15px;
     margin-left:  15px;
     padding: 44px 10px 10px 10px;
@@ -42,7 +42,7 @@ p{
     width: 96px;
     height: 36px;
     background-color: #e98e83;
-    border: 2px solid black;
+    border: 1px solid black;
     text-align: center;
     padding: 7px;
     font-weight: bold;
@@ -56,7 +56,7 @@ p{
     width: 96px;
     height: 36px;
     background-color: #d24b4b;
-    border: 2px solid black;
+    border: 1px solid black;
     text-align: center;
     padding: 7px;
     color: white;
@@ -71,7 +71,7 @@ p{
     width: 96px;
     height: 36px;
     background-color: #ecd182;
-    border: 2px solid black;
+    border: 1px solid black;
     text-align: center;
     padding: 7px;
     font-weight: bold;
